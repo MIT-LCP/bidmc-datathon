@@ -8,9 +8,8 @@ This repository contains resources for the BIDMC Datathon 2020.
 2. Documentation
 3. Databases on BigQuery
 4. Analysing data with Google Colab
-5. Python notebooks that we prepared earlier
-6. An example in R
-7. Sample projects
+5. Notebooks that we prepared earlier
+6. Sample projects
 
 ## 1. Getting started
 
@@ -49,33 +48,33 @@ Python is an increasingly popular programming language for analysing data. We wi
 
 - [https://colab.research.google.com/](https://colab.research.google.com/)
 
-## 5. Python notebooks that we prepared earlier
+## 5. Python and R notebooks that we prepared earlier
 
 Several tutorials are provided below. Requirements for these notebooks are: (1) you have a Gmail account and (2) your Gmail address has been added to the appropriate Google Group by the workshop hosts.
 
-Notebook 1 (eICU): Exploring the patient table. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+BIDMC Q1: Data extraction for the English vs. Non-English Speaker project (MIMIC/R) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/inference_01_extraction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 2 (eICU): Severity of illness. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+BIDMC Q1: Exploratory analysis in English vs. Non-English Speakers (MIMIC/Python) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/inference_02_analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 3 (eICU): Summary statistics. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+BIDMC Q1: Exploratory analysis in English vs. Non-English Speakers (MIMIC/R) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/inference_02_analysisR.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 4 (eICU): Timeseries. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/04_timeseries.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Exploring the patient table (eICU): <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 5 (eICU): Mortality prediction. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/05_mortality_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Severity of illness (eICU): <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 6 (eICU): Acute kidney injury. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/06_aki_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Summary statistics (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 7 (eICU): Project work. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/07_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Timeseries for a single patient (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/04_timeseries.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 8 (MIMIC): Weekend effect on mortality. <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/mimic-weekend-effect.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Mortality prediction (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/05_mortality_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-## 6. An example in R
+Acute kidney injury (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/06_aki_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-If you prefer working in R, then you can connect to Google Cloud from your code in a similar way:
+Weekend effect on mortality (MIMIC) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/mimic-weekend-effect.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-- Example to follow.
+Project work (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/07_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-## 7. Sample projects
+## 6. Sample projects
 
 These papers and repositories may be helpful for reference. They are definitely **not** perfect! Code may be untidy, poorly documented, buggy, outdated etc. Think about how they can be improved, adapted, etc. For example, you could:
 
