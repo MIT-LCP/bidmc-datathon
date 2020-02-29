@@ -60,6 +60,8 @@ BIDMC Q1: Exploratory analysis in English vs. Non-English Speakers (MIMIC/R) <a 
 
 Decision trees for mortality prediction (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/eicu_decision_trees.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
+Renal replacement therapy (eICU) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/eicu_crrt_dataset.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 Exploring the patient table (eICU): <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Severity of illness (eICU): <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
