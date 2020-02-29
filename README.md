@@ -52,7 +52,7 @@ Python is an increasingly popular programming language for analysing data. We wi
 
 Several tutorials are provided below. Requirements for these notebooks are: (1) you have a Gmail account and (2) your Gmail address has been added to the appropriate Google Group by the workshop hosts.
 
-BIDMC Q1: Data extraction for the English vs. Non-English Speaker project (MIMIC/R) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/inference_01_extraction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+BIDMC Q1: Data extraction for the English vs. Non-English Speaker project (MIMIC/R) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/inference_01_extractionR.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 BIDMC Q1: Exploratory analysis in English vs. Non-English Speakers (MIMIC/Python) <a href="https://colab.research.google.com/github/MIT-LCP/bidmc-datathon/blob/master/inference_02_analysis.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
